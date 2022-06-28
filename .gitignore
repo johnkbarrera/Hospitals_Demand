@@ -1,2 +1,4 @@
 web_resources/*
 data/*
+data_preprocessed/*
+results/*
